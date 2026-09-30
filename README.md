@@ -7,6 +7,7 @@
 ### How to run:
 
 - Download .csv file containing census data and longitude/latitude data
+- Download map JPEG
 - Open Processing IDE & and run the code
 - View new window displaying 3D map and interact with it using instructions found in the console window
 

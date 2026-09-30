@@ -1,2 +1,11 @@
 # Data-Visualisation-project-Processing-
-Used Processing to build an interactive 3D application that visualised UK city population data across three census years (1991, 2001, 2011) on a UK map, implementing coordinate mapping, camera projection, and interactive controls including panning, zooming, and data filtering
+
+### prerequisites:
+1. Processing - graphics library & IDE
+
+
+### How to run:
+
+- Download .csv file containing census data and longitude/latitude data
+- Open Processing IDE & and run the code
+- View new window displaying 3D map and interact with it using instructions found in the console window
